@@ -1,0 +1,14 @@
+.panda-info-bg{
+    background-color: rgba(243, 230, 230, 0.655);
+}
+
+.panda-button{
+   padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #e43754, rgba(238, 57, 208, 0.6));
+    border:none;
+    border-radius: 8px;
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
